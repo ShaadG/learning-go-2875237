@@ -25,6 +25,7 @@ When switching from one exercise files branch to the next after making changes t
 
     error: Your local changes to the following files would be overwritten by checkout:        [files]
     Please commit your changes or stash them before you switch branches.
+    
     Aborting
 
 To resolve this issue:

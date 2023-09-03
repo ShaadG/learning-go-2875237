@@ -7,3 +7,5 @@ import (
 func main() {
 	fmt.Println("Hello from Go!")
 }
+
+// A change is made
